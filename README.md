@@ -2,7 +2,9 @@
 
 ### 🔍 Microsoft
 
-[📄 View MCP](Microsoft Certified Professional.pdf)
-[📄 View Azure](Microsoft Certified Azure Fundamentals.pdf)
-[📄 View AI Skill Fest](Microsoft AI Fest.pdf)
+[📄 View PDF](Microsoft Certified Professional.pdf)
+
+[📄 View PDF](Microsoft Certified Azure Fundamentals.pdf)
+
+[📄 View PDF](Microsoft AI Fest.pdf)
 
