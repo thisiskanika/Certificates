@@ -1,6 +1,8 @@
 ## Certificates
 
 ### 🔍 Microsoft
-![Microsoft](Microsoft Certified Professional.pdf)
 
-[📄 View PDF](resume.pdf)
+[📄 View MCP](Microsoft Certified Professional.pdf)
+[📄 View Azure](Microsoft Certified Azure Fundamentals.pdf)
+[📄 View AI Skill Fest](Microsoft AI Fest.pdf)
+
